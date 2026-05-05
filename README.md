@@ -1,21 +1,21 @@
 # rekall-memory-forensics-investigation
-# 🔍 Memory Forensics Investigation using Rekall
+#  Memory Forensics Investigation using Rekall
 
-## 📌 Overview
+##  Overview
 
 This project presents a digital forensic investigation using the Rekall framework to analyze a memory dump and detect suspicious activities such as hidden processes, injected code, and possible malware behavior.
 
-## 🎯 Scenario
+##  Scenario
 
 A security breach was suspected at a company after unusual network activity was detected at 2:00 AM. No malware was found on disk, indicating a possible fileless attack.
 
-## 🛠 Tools Used
+## Tools Used
 
 * Rekall
 * WinPmem
 * Windows Memory Dump
 
-## 🔎 Key Analysis Performed
+##  Key Analysis Performed
 
 ### 1. Process Analysis
 
