@@ -99,3 +99,10 @@ Refer to `report.pdf` for complete analysis.
 * Incident Response
 * Malware Analysis
 
+
+##  Screenshots
+
+![pslist](screenshots/pslist.jpg)
+![malfind](screenshots/malfind.jpg)
+![pstree](screenshots/pstree.png)
+
