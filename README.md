@@ -106,3 +106,6 @@ Refer to `report.pdf` for complete analysis.
 ![malfind](screenshots/malfind.jpg)
 ![pstree](screenshots/pstree.png)
 
+
+##  Why This Project Matters
+This project demonstrates how attackers can operate without leaving traces on disk, making memory forensics a critical skill in modern cybersecurity investigations.
